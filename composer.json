@@ -1,0 +1,16 @@
+{
+    "name": "yunisoft/yui-framework",
+    "description": "Wellington Hayuki",
+    "authors": [
+        {
+            "name": "Wellington Hayuki",
+            "email": "hayukimc@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        "app\\" : "app/"
+        }
+    }
+}
